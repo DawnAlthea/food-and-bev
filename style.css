@@ -1,0 +1,43 @@
+.navbar{
+	text-decoration:none;
+	float:right;
+	margin-right:15px;
+	color:#7b3030;
+}
+.logo{
+	width:70px;
+}
+nav{
+	overflow:hidden;
+	background-color: #ffef6f;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.TitleText{
+	position:absolute;
+	top:30%;
+	left:20%;
+	font-size:150px;
+	color: #A9333A;
+	text-shadow:2px 2px black;
+}
+.bgImage{
+	width:100%;
+	height:700px;
+}
+.active{
+	color:orange;
+}
+ a:hover{
+	background-color: red;
+}
+.contain{
+	width:30%;
+	height:30%;
+	float:left;
+	margin-right:2%;
+}
+.imgcontain{
+	margin-left:130px;
+}
+
